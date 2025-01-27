@@ -1,0 +1,23 @@
+{
+  "name": "getting-started-activity",
+  "version": "1.0.0",
+  "description": "This template is used in the [Building An Activity](https://discord.com/developers/docs/activities/building-an-activity) tutorial in the Discord Developer Docs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discord/getting-started-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/discord/getting-started-activity/issues"
+  },
+  "homepage": "https://github.com/discord/getting-started-activity#readme",
+  "dependencies": {
+    "@discord/embedded-app-sdk": "^1.9.0"
+  }
+}
